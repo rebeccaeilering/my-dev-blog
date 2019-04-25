@@ -29,7 +29,7 @@ class PostListing extends React.Component {
           <span>{post.date}</span>
           <p>{post.excerpt}</p>
           <Link to={post.path} key={post.title}>
-          <span className="readmore">Read more</span>
+          <span className="readmore">Read</span>
           </Link>
         </article>
       ))
