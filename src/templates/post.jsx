@@ -2,8 +2,9 @@ import React from "react";
 import Helmet from "react-helmet";
 import { graphql } from "gatsby";
 import Layout from "../layout";
+import _ from "lodash";
+import { Link } from "gatsby";
 import UserInfo from "../components/UserInfo/UserInfo";
-import Disqus from "../components/Disqus/Disqus";
 import PostTags from "../components/PostTags/PostTags";
 import SocialLinks from "../components/SocialLinks/SocialLinks";
 import SEO from "../components/SEO/SEO";
@@ -30,14 +31,22 @@ export default class PostTemplate extends React.Component {
           </Helmet>
           <SEO postPath={slug} postNode={postNode} postSEO />
           <div>
-            <h1>{post.title}</h1>
-            <div dangerouslySetInnerHTML={{ __html: postNode.html }} />
-            <div className="post-meta">
-              <PostTags tags={post.tags} />
-              <SocialLinks postPath={slug} postNode={postNode} />
-            </div>
-            <UserInfo config={config} />
-            <Disqus postNode={postNode} />
+            <section className="post-container">
+              <h2>{post.title}</h2>
+              <span>{post.date}</span>
+              <Link
+              key={post.category}
+              to={`/categories/${_.kebabCase(post.category)}`}
+              >              
+              <button>{post.category}</button>
+              </Link>
+              <div className="post-content" dangerouslySetInnerHTML={{ __html: postNode.html }} />
+              <div className="post-meta">
+                <PostTags tags={post.tags} />
+                <SocialLinks postPath={slug} postNode={postNode} />
+              </div>
+              <UserInfo config={config} />
+            </section>
           </div>
         </div>
       </Layout>
