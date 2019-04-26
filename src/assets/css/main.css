@@ -43,4 +43,8 @@
     border-bottom: 1px dotted #82BF0A;
     padding: 30px 0;
   }
+
+  article:last-of-type {
+    border-bottom: none;
+  }
   

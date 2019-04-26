@@ -31,7 +31,7 @@ export default class PostTemplate extends React.Component {
           </Helmet>
           <SEO postPath={slug} postNode={postNode} postSEO />
           <div>
-            <section className="post-container">
+            <section className="main-container">
               <h2>{post.title}</h2>
               <span>{post.date}</span>
               <Link
