@@ -20,12 +20,27 @@
   }
   
   a {
-    text-decoration: none;
-    color: #395f74;
+    color: #206FAF;
+    font-weight: 600;
   }
   
-  a:hover,
-  a:focus {
-    text-decoration: underline;
+  a:hover {
+    color: #82BF0A;
+  }
+
+  h3 {
+    margin-top: 0
+  }
+
+  .main-container {
+    max-width: calc(1100px - (30px * 2));
+    background: #fff;
+    margin: 40px auto;
+    padding: 30px;
+  }
+
+  article {
+    border-bottom: 1px dotted #82BF0A;
+    padding: 30px 0;
   }
   

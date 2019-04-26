@@ -44,6 +44,7 @@ header .container {
 
 .site-title {
     color: #fff;
+    text-decoration: none;
     letter-spacing: 1px;
     font-weight: 700;
     font-style: italic;
@@ -74,10 +75,12 @@ a.header-btn {
     padding: 10px 15px;
     font-size: 16px;
     color: #fff;
+    text-decoration: none;
     transition: all .5s;
   }
   
 a.header-btn:hover {
     background-color: #82BF0A;
+    color: #fff;
     text-decoration: none;
 }
