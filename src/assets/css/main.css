@@ -28,8 +28,13 @@
     color: #82BF0A;
   }
 
-  h3 {
+
+  h2, h3 {
     margin-top: 0
+  }
+
+  h2 {
+    margin-bottom: 0;
   }
 
   .main-container {
