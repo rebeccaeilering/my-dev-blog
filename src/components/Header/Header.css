@@ -37,8 +37,8 @@ header .container {
 
 @media screen and (min-width: 800px) {
     header .container {
-        padding-right: 30px;
-        padding-left: 30px;
+        padding-right: 0;
+        padding-left: 0;
     }
 }
 

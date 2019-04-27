@@ -12,8 +12,8 @@ class Footer extends Component {
       return null;
     }
     return (
-      <footer className="footer">
-        <div className="notice-container">
+      <footer>
+        <div className="container">
           <span>{copyright}</span>
           <div className="social-links">
             <Link to={url}>
