@@ -32,14 +32,9 @@ export default class PostTemplate extends React.Component {
           <SEO postPath={slug} postNode={postNode} postSEO />
           <div>
             <section className="main-container">
-              <h2>{post.title}</h2>
+              <h1>{post.title}</h1>
               <span>{post.date}</span>
-              <Link
-              key={post.category}
-              to={`/categories/${_.kebabCase(post.category)}`}
-              >              
-              <button>{post.category}</button>
-              </Link>
+              <p>Category: <Link key={post.category} to={`/categories/${_.kebabCase(post.category)}`}>{post.category}</Link></p>
               <div className="post-content" dangerouslySetInnerHTML={{ __html: postNode.html }} />
               <div className="post-meta">
                 <PostTags tags={post.tags} />

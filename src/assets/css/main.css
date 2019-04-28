@@ -29,11 +29,11 @@
   }
 
 
-  h2, h3 {
+  h1, h3 {
     margin-top: 0
   }
 
-  h2 {
+  h1 {
     margin-bottom: 0;
   }
 
@@ -51,5 +51,9 @@
 
   article:last-of-type {
     border-bottom: none;
+  }
+
+  .post-tag-container a {
+    margin: 0 5px;
   }
   
