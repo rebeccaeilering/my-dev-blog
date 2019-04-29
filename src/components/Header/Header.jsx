@@ -7,7 +7,7 @@ class Header extends Component {
     return (
       <header>
         <div className="container">
-          <a class="site-title" href="">{config.siteTitle}</a>
+          <a class="site-title" href="/">{config.siteTitle}</a>
           <nav>
             <a className="header-btn" href="/about">About</a>
           </nav>
