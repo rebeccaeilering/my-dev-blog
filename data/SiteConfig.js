@@ -11,8 +11,8 @@ const config = {
   googleAnalyticsID: "UA-47311644-5", // GA tracking ID.
   disqusShortname: "https-vagr9k-github-io-gatsby-advanced-starter", // Disqus shortname.
   postDefaultCategoryID: "Tech", // Default category for posts.
-  dateFromFormat: "YYYY-MM-DD", // Date format used in the frontmatter.
-  dateFormat: "DD/MM/YYYY", // Date format for display.
+  dateFromFormat: "MM/DD/YYYY", // Date format used in the frontmatter.
+  dateFormat: "MM/DD/YYYY", // Date format for display.
   userName: "Rebecca Eilering", // Username to display in the author segment.
   userEmail: "rebeccaeilering@gmail.com", // Email used for RSS feed's author segment
   userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
@@ -38,7 +38,7 @@ const config = {
       iconClassName: "fa fa-envelope"
     }
   ],
-  copyright: "Copyright © 2019. Rebecca's Developer Blog", // Copyright string for the footer of the website and RSS feed.
+  copyright: "Copyright © 2019 Rebecca's Developer Blog", // Copyright string for the footer of the website and RSS feed.
   themeColor: "#c62828", // Used for setting manifest and progress theme colors.
   backgroundColor: "#e0e0e0" // Used for setting manifest background color.
 };
