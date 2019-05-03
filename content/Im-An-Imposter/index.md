@@ -6,7 +6,7 @@ date: 12/30/2017
 tags:
     - web development
     - imposter syndrome
-    - mental healt
+    - mental health
 ---
 
 I'm not a developer. I have told myself this a million times. I think if you read the My Dev Journey post, that could give some guidance to why I may feel that way. I didn't go into being a developer by the normal and traditional route. I'm self taught and that give me doubts that I'm doing things the "right way". I often feel like I don't know as much as others. I'm sure that is true but I'm sure I also know more than some other people too.

@@ -4,7 +4,7 @@ cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: personal
 date: 12/29/2017
 tags:
-    - Web Development
+    - web development
 ---
 
 Sometimes I feel like I should be much further along in my career. I am 40 years old but I'm at an entry level. I think that would tell you that I got started in this rather late.
