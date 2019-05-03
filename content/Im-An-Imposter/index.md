@@ -2,7 +2,7 @@
 title:  "I'm An Imposter"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: personal
-date: 08/27/2018
+date: 12/30/2017
 tags:
     - web development
     - imposter syndrome
