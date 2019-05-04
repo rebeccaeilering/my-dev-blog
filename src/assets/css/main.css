@@ -28,13 +28,13 @@
     color: #82BF0A;
   }
 
-
   h1, h3 {
     margin-top: 0
   }
 
   h1 {
     margin-bottom: 0;
+    font-size: 28px;
   }
 
   .main-container {
