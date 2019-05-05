@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: */tags/
+Disallow: */categories/
+
+sitemap: https://rebeccaeilering.github.io/my-dev-blog/sitemap.xml
