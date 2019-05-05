@@ -5,7 +5,7 @@ class About extends Component {
   render() {
     return (
       <div className="about">
-        <h1>About Me</h1>
+        <h1>About Rebecca</h1>
         <p>I'm a web developer specializing in HTML, CSS, JavaScript/jQuery, building themes on the .Net framework, and taking on new challenges. I have a background in design and art. I graduated with an MFA from Ohio University in 2005 but have transitioned from working in the art field to working as a web developer.</p>
         <p>I'm is originally from the St. Louis area but recently moved to Springfield, IL. I lived in Athens, OH while studying at Ohio University.
         </p>
