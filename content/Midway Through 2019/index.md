@@ -1,7 +1,7 @@
 ---
 title:  "Report: Midway Through 2019"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
-category: personal
+category: web development
 date: 07/07/2019
 tags:
     - web development
@@ -21,22 +21,23 @@ I realize I haven't been posting lately and we are, at this point, more than hal
 
 2. Continuing my JavaScript path. I can say I'm getting better. I'm feeling more confident and am solving more JavaScript related problems at work and building in some more functionality based on requests from clients. I can think of a couple little things I did for clients recently. The first on was displaying search results in alpha order. 
 
-Other JavaScript related things:
-  Built date parameters into a slider carousel this way the client can display specific slides based on date
-  Working with APIs
-  Tab focus on navigation dropdowns
-  Playing with an JS animation engine called Zdog
-  Playing with a JS physics engine called Matter.js
-
-I'm not really working on the Gatsby site for the cat. There was another Gatsby thing I was working on becuase I was thinking of doing another blog. However, I thinking I'm going to scrap it because I just don't want to make the time for another blog. I barely make time for this one.
-
-I haven't done anything with Vue yet.
-
 3. Being more consistent with my projects. I was doing good with this but I was starting to feel a little burnt out on it. Lately, I have been taking some time for other hobbies like art, looking for a cardio boxing gym, doing some hiking meetups to try to meet people and be more social outside work. Because of this, the work on personal projects in the past month has be sporatic. Generally though, I have been doing good with this.
 
 4. I haven't got rid of the old website but I did remove a lot of features from it. I removed the form becuase I don't want people contacting me through that site and lately I've been getting a lot of spam. Essentially, the homepage features some old blog entries from when I used to ride my bike around St. Louis. I'll probably keep the site as an archive of these.
 
 5. I haven't started any sort of persoal project with C# or Python yet.
+
+##Other JavaScript related things
+
+  * built date parameters into a slider carousel this way the client can display specific slides based on date
+  * Working with APIs
+  * Tab focus on navigation dropdowns
+  * Playing with an JS animation engine called Zdog
+  * Playing with a JS physics engine called Matter.js
+
+I'm not really working on the Gatsby site for the cat. There was another Gatsby thing I was working on becuase I was thinking of doing another blog. However, I thinking I'm going to scrap it because I just don't want to make the time for another blog. I barely make time for this one.
+
+I haven't done anything with Vue yet.
 
 ##Assessment
 
