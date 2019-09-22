@@ -42,11 +42,25 @@
     background: #fff;
     margin: 40px auto;
     padding: 30px;
+    display: block;
+  }
+
+  @media screen and (min-width: 768px) {
+    .main-container.home {
+      display: flex;
+      align-items: flex-start;
+    }
+  }
+
+  .posts {
+    max-width: 600px;
+    width: 100%;
   }
 
   article {
     border-bottom: 1px dotted #82BF0A;
     padding: 30px 0;
+    margin-right: 30px;
   }
 
   article:last-of-type {
@@ -55,5 +69,36 @@
 
   .post-tag-container a {
     margin: 0 5px;
+  }
+
+  aside {
+    padding: 20px;
+    background-color: #f4f4f4;
+    border: 1px solid rgba(32, 111, 175, .3);
+  }
+
+  @media screen and (min-width: 768px) {
+    aside {
+      flex: 1;
+    }
+  }
+
+  aside span {
+    font-weight: 900;
+    font-size: 20px;
+  }
+
+  ul.tags-cat {
+    padding-left: 0;
+    list-style: none;
+  }
+
+  ul.tags-cat li {
+    display: inline-block;
+    padding: 5px 10px;
+    margin-right: 3px;
+    margin-bottom: 3px;
+    border: 1px dotted #206FAF;
+    font-size: 14px;
   }
   
