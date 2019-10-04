@@ -11,10 +11,10 @@ export default class TagTemplate extends React.Component {
     const postEdges = this.props.data.allMarkdownRemark.edges;
     return (
       <Layout>
-        <div className="main-container">
+        <main className="main-container">
           <Helmet title={`Posts tagged as "${tag}" | ${config.siteTitle}`} />
           <PostListing postEdges={postEdges} />
-        </div>
+        </main>
       </Layout>
     );
   }

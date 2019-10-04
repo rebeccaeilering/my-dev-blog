@@ -31,7 +31,7 @@ class SocialLinks extends Component {
 
     return (
       <div className="social-links">
-        <p>Share this:</p>
+        <p>Share:</p>
         <RedditShareButton url={url} title={post.title}>
           <RedditIcon round size={iconSize} />
           <RedditShareCount url={url}>

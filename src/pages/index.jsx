@@ -15,36 +15,40 @@ class Index extends React.Component {
 
     return (
       <Layout>
-        <main className="main-container home">
+        <div className="main-container home">
           <Helmet title={config.siteTitle} />
           <SEO />
-          <section className="posts">
+          <main className="posts">
             <h1>Latest Posts</h1>
             <PostListing postEdges={postEdges} />
-          </section>
+          </main>
           <aside>
-            <span>Categories</span>
-            <ul className="tags-cat">
-              {groupCategory.map(category => (
-                <li key={category.fieldValue}>
-                  <Link to={`/categories/${_.kebabCase(category.fieldValue)}/`}>
-                    {category.fieldValue} ({category.totalCount})
-                  </Link>
-                </li>
-              ))}
-            </ul>
-            <span>Tags</span>
-            <ul className="tags-cat">
-              {groupTags.map(tag => (
-                <li key={tag.fieldValue}>
-                  <Link to={`/tags/${_.kebabCase(tag.fieldValue)}/`}>
-                    {tag.fieldValue} ({tag.totalCount})
-                  </Link>
-                </li>
-              ))}
-            </ul>
+            <section>
+              <h3>Categories</h3>
+              <ul className="tags-cat">
+                {groupCategory.map(category => (
+                  <li key={category.fieldValue}>
+                    <Link to={`/categories/${_.kebabCase(category.fieldValue)}/`}>
+                      {category.fieldValue} ({category.totalCount})
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
+            <section>
+              <h3>Tags</h3>
+              <ul className="tags-cat">
+                {groupTags.map(tag => (
+                  <li key={tag.fieldValue}>
+                    <Link to={`/tags/${_.kebabCase(tag.fieldValue)}/`}>
+                      {tag.fieldValue} ({tag.totalCount})
+                    </Link>
+                  </li>
+                ))}
+              </ul>
+            </section>
           </aside>
-        </main>
+        </div>
       </Layout>
     );
   }

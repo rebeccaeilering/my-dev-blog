@@ -25,25 +25,23 @@ export default class PostTemplate extends React.Component {
     }
     return (
       <Layout>
-        <div>
-          <Helmet>
-            <title>{`${post.title} | ${config.siteTitle}`}</title>
-          </Helmet>
-          <SEO postPath={slug} postNode={postNode} postSEO />
-          <div>
-            <section className="main-container">
-              <h1>{post.title}</h1>
-              <span>{post.date}</span>
-              <p>Category: <Link key={post.category} to={`/categories/${_.kebabCase(post.category)}`}>{post.category}</Link></p>
-              <div className="post-content" dangerouslySetInnerHTML={{ __html: postNode.html }} />
-              <div className="post-meta">
-                <PostTags tags={post.tags} />
-                <SocialLinks postPath={slug} postNode={postNode} />
-              </div>
-              <UserInfo config={config} />
-            </section>
-          </div>
-        </div>
+        <Helmet>
+          <title>{`${post.title} | ${config.siteTitle}`}</title>
+        </Helmet>
+        <SEO postPath={slug} postNode={postNode} postSEO />
+        <main className="main-container">
+          <article>
+            <h1>{post.title}</h1>
+            <span>{post.date}</span>
+            <p>Category: <Link key={post.category} to={`/categories/${_.kebabCase(post.category)}`}>{post.category}</Link></p>
+            <div className="post-content" dangerouslySetInnerHTML={{ __html: postNode.html }} />
+            <div className="post-meta">
+              <PostTags tags={post.tags} />
+              <SocialLinks postPath={slug} postNode={postNode} />
+            </div>
+            <UserInfo config={config} />
+          </article>
+        </main>
       </Layout>
     );
   }

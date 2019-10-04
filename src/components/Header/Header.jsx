@@ -8,9 +8,7 @@ class Header extends Component {
       <header>
         <div className="container">
           <a class="site-title" href="/my-dev-blog">{config.siteTitle}</a>
-          <nav>
-            <a className="header-btn" href="/my-dev-blog/about">About</a>
-          </nav>
+          <a className="header-btn" href="/my-dev-blog/about">About</a>
         </div>
       </header>
     );
