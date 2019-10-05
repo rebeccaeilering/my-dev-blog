@@ -22,10 +22,12 @@
   a {
     color: #206FAF;
     font-weight: 600;
+    text-decoration: none;
   }
   
   a:hover {
     color: #82BF0A;
+    text-decoration: underline;
   }
 
   h1, h3 {

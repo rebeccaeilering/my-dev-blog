@@ -15,6 +15,7 @@ export default class CategoryTemplate extends React.Component {
           <Helmet
             title={`Posts in category "${category}" | ${config.siteTitle}`}
           />
+          <h1>Category: {category}</h1>
           <PostListing postEdges={postEdges} />
         </main>
       </Layout>

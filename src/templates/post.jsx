@@ -30,7 +30,7 @@ export default class PostTemplate extends React.Component {
         </Helmet>
         <SEO postPath={slug} postNode={postNode} postSEO />
         <main className="main-container">
-          <article>
+          <article className="post-container">
             <h1>{post.title}</h1>
             <span>{post.date}</span>
             <p>Category: <Link key={post.category} to={`/categories/${_.kebabCase(post.category)}`}>{post.category}</Link></p>

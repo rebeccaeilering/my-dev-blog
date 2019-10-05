@@ -11,7 +11,6 @@ class PostTags extends Component {
           tags.map(tag => (
             <Link
               key={tag}
-              style={{ textDecoration: "none" }}
               to={`/tags/${_.kebabCase(tag)}`}
             >{tag}
             </Link>

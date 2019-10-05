@@ -5,7 +5,13 @@
     justify-content: flex-start;
     align-content: center;
     align-items: center;
-    margin: 15px 0;
+    margin: 10px 0 0;
+}
+
+@media screen and (min-width: 600px) {
+  .social-links {
+    margin: 0;
+  }
 }
 
 .social-links a {
@@ -14,14 +20,18 @@
     margin-left: 15px;
 }
 
+.social-links a:first-child {
+  margin-left: 0;
+}
+
 .social-links a:hover,
 .social-links a:focus {
     color: #82BF0A;
-    text-decoration: none;
+    text-decoration: underline;
 }
 
 .social-links > div {
-    margin: 3px;
+    margin: 0 0 0 15px;
     cursor: pointer;
 }
 
