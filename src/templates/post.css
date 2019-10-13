@@ -8,3 +8,9 @@
     flex-direction: column;
     justify-content: center;
 }
+
+:not(pre) > code[class*="language-"] {
+  padding: 2px 5px;
+  background: rgba(32, 111, 175, .2);
+  color: #111;
+}
