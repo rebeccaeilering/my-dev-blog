@@ -32,16 +32,16 @@ class SocialLinks extends Component {
     return (
       <div className="social-links">
         <p>Share:</p>
-        <RedditShareButton url={url} title={post.title}>
+        <RedditShareButton url={url} title={post.title} aria-label="Reddit">
           <RedditIcon round size={iconSize} />
           <RedditShareCount url={url}>
             {count => renderShareCount(count)}
           </RedditShareCount>
         </RedditShareButton>
-        <TwitterShareButton url={url} title={post.title}>
+        <TwitterShareButton url={url} title={post.title} aria-label="Twitter">
           <TwitterIcon round size={iconSize} />
         </TwitterShareButton>
-        <FacebookShareButton url={url} quote={postNode.excerpt}>
+        <FacebookShareButton url={url} quote={postNode.excerpt} aria-label="Facebook">
           <FacebookIcon round size={iconSize} />
           <FacebookShareCount url={url}>
             {count => renderShareCount(count)}
@@ -51,13 +51,14 @@ class SocialLinks extends Component {
           url={url}
           title={post.title}
           description={postNode.excerpt}
+          aria-label="Linkedin"
         >
           <LinkedinIcon round size={iconSize} />
           <LinkedinShareCount url={url}>
             {count => renderShareCount(count)}
           </LinkedinShareCount>
         </LinkedinShareButton>
-        <TelegramShareButton url={url}>
+        <TelegramShareButton url={url} aria-label="Telegram">
           <TelegramIcon round size={iconSize} />
         </TelegramShareButton>
       </div>

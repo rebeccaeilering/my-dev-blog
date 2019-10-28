@@ -2,7 +2,7 @@
 title:  "Using the URL to Change HTML Attributes" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: javascript
-date: 10/13/2019
+date: 10/29/2019
 tags:
     - jquery
     - attributes
