@@ -22,8 +22,8 @@ class Index extends React.Component {
             <h1>Latest Posts</h1>
             <PostListing postEdges={postEdges} />
           </main>
-          <aside>
-            <section aria-label="Post Categories">
+          <div class="sidebar">
+            <div>
               <h3>Categories</h3>
               <ul className="tags-cat">
                 {groupCategory.map(category => (
@@ -34,8 +34,8 @@ class Index extends React.Component {
                   </li>
                 ))}
               </ul>
-            </section>
-            <section aria-label="Post Tags">
+            </div>
+            <div>
               <h3>Tags</h3>
               <ul className="tags-cat">
                 {groupTags.map(tag => (
@@ -46,8 +46,8 @@ class Index extends React.Component {
                   </li>
                 ))}
               </ul>
-            </section>
-          </aside>
+            </div>
+          </div>
         </div>
       </Layout>
     );
