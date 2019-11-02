@@ -19,7 +19,7 @@ class Index extends React.Component {
           <Helmet title={config.siteTitle} />
           <SEO />
           <main className="posts">
-            <h1>Latest Posts</h1>
+            <h1>Rebecca's Latest Posts</h1>
             <PostListing postEdges={postEdges} />
           </main>
           <div class="sidebar">

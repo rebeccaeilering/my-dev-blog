@@ -2,7 +2,7 @@
 title:  "The Basics of HTML5 Semanitic Elements"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: accessibility
-date: 12/30/2017
+date: 11/01/2019
 tags:
     - html
     - front-end development
@@ -18,25 +18,25 @@ So what do the following do?
 
 ##Main
 
-The `<main>` element is where the dominant content of the document's body lives. Then content should be unique to the document. Repeated content such as navigations, sidebars, etc,... shouldn't be in the main tag. You shouldn't have more than one main tag. The main element is a landmark.
+The `<main>` element is where the dominant content of the document's body lives. The content should be unique to the document. Repeated content such as navigations, sidebars, etc,... shouldn't be in the main tag. You shouldn't have more than one main tag. The main element is a landmark.
 
 [Learn more about the Main tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
 
 ##Header
 
-The `<header>` element is for introductory content or navigation aids. Many times this will contain heading text, logo, search. This doesn't go inside the main tag but it can be used in a section or article tag. Headers when not nested in other elements do act as landmarks.
+The `<header>` element is for introductory content or navigation aids. Many times this will contain heading text, logo, search. This doesn't go inside the main tag but it can be used as a child element inside a section or article tag. Headers when they are not child elements do act as landmarks. If the header is a child element inside a section or article tag do no act as landmarks.
 
 [Learn more about the Header tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
 
 ##Nav
 
-The `<nav>` element is a section of a page that provides a block of navigation links. A document may have more than one of these elements but for accessibility purposes an `aria-labeledby` attribute may be used to help differentiate different nav elements when assitive technologies are used.
+The `<nav>` element is a section of a page that provides a block of navigation links. A document may have more than one of these elements so for accessibility purposes an `aria-labeledby` attribute may be used to help differentiate the nav elements when assitive technologies are used.
 
 [Learn more about the Nav tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/nav)
 
 ##Section
 
-The `<section>` element is great for content that is part of (a section of) a larger block of content. Typically if you use a section, you'll have more than one section. Many mistakenly use this element as a generic container - like a `<div>`. A section should be used if the content should logically appear in the outline of the HTML document. Sections should have a heading as a child element. Sections may contain `<header>` and `<footer>` tags but it's not nessessary.
+The `<section>` element is great for content that is part of (a section of) a larger block of content. Typically if you use a section, you'll have more than one section (not always though). Many mistakenly use this element as a generic container - like a `<div>`. A section element is to be used if the content should logically appear in the outline of the HTML document. Sections should have a heading as a child element. Sections may contain `<header>` and `<footer>` tags but it's not nessessary. Sections may also contain articles. 
 
 A section is not a landmark but it becomes one when a heading is used along with an `aria-label`, `aria-labelledby`, or `title` attribute.
 
@@ -54,7 +54,7 @@ Articles are not landmarks and should be within a landmark. Commonly this would 
 
 ##Aside
 
-The `<aside>` element is often confusing too. It's not another term for sidebar but many times it is used for a sidebar. It's often used as call-outs too. This landmark contains content that is indirectly related to the documents main content. If the content is not in any way related to the main content a `<div>` element may be more appropriate.
+The `<aside>` element is often confusing too. It's not another term for sidebar but many times it is used for a sidebar. It's often used as call-outs, definitions, and other auxiliary content. This landmark contains content that is indirectly related to the documents main content. If the content is not in any way related to the main content a `<div>` element may be more appropriate.
 
 An Aside can have an header and footer but can't contain another aside element.
 
