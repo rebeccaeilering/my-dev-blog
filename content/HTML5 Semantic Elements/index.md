@@ -6,6 +6,7 @@ date: 11/01/2019
 tags:
     - html
     - front-end development
+    - web development
 ---
 
 A long time ago it was pretty standard to create layouts with tables. Then we moved on to using divs to create layouts. This was certainly better than tables but no consideration was given to accessibility. However, today, accessibility is very important to create websites that will be accessible by all. This means making it so a website allows assistive technologies to read your site and adapt it so those with a variety of disabilities can access the content of a website.
@@ -24,7 +25,7 @@ The `<main>` element is where the dominant content of the document's body lives.
 
 ##Header
 
-The `<header>` element is for introductory content or navigation aids. Many times this will contain heading text, logo, search. This doesn't go inside the main tag but it can be used as a child element inside a section or article tag. Headers when they are not child elements do act as landmarks. If the header is a child element inside a section or article tag do no act as landmarks.
+The `<header>` element is for introductory content or navigation aids. Many times this will contain heading text, logo, search. This doesn't go inside the main tag but it can be used as a child element inside a section or article tag. Headers when they are not child elements do act as landmarks. If the header is a child element inside a section or article tag they do no act as landmarks.
 
 [Learn more about the Header tag](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
 
