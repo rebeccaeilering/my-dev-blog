@@ -19,5 +19,9 @@ setTimeout(function () {
 
 Recently I used it to sync the loading of some html elements to events in a short video. I used the setTimeout method to run a function that added a class to  a couple elements. Then I used css to update the opacity and create a transition.
 
+[setTimeout Example on Codepen](https://codepen.io/rebeccaeilering/pen/JjjpBoG)
+
+[setTimeout MDN](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setTimeout)
+
 
 
