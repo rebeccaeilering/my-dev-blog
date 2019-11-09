@@ -22,7 +22,7 @@ class Index extends React.Component {
             <h1>Rebecca's Latest Posts</h1>
             <PostListing postEdges={postEdges} />
           </main>
-          <div class="sidebar">
+          <div className="sidebar">
             <div>
               <h3>Categories</h3>
               <ul className="tags-cat">
