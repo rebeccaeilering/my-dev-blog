@@ -2,7 +2,7 @@
 title:  "Including Code Examples in Content" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: html
-date: 12/07/2019
+date: 12/09/2019
 tags:
     - html
     - web development
@@ -12,9 +12,9 @@ tags:
 
 As a web developer I like to include little code examples/snippets in my content sometimes. It's not too difficult but it's a bit quirky.
 
-First of all, for this blog, I'm using Gatsby and my posts are written in Markdown. I'm using a package called Gatsby-Remark-Prismjs which is nice becuase it includes syntax highlighting and the Markdown code for it is simple. It takes care of a lot of the quirkiness. I just use three backticks and the language right after like ` ```javascript `. Specifying the language determines the code highlighting. Then insert the code and close with three backticks ` ``` `. This is good for blocks of code. For inline code, I just add the code and surround it with backticks like ` `<pre>` `. 
+First of all, for this blog, I'm using Gatsby and my posts are written in Markdown. I'm using a package called Gatsby-Remark-Prismjs which is nice becuase it includes syntax highlighting and the Markdown code for it is simple. It takes care of a lot of the quirkiness. I just use three backticks and the language right after like ` ```javascript`. Specifying the language determines the code highlighting. Then insert the code and close with three backticks ` ``` `. This is good for blocks of code. For inline code, I just add the code and surround it with backticks like `` `<pre>` ``. 
 
-If you're not using Gatsby and just writing in plain HTML and CSS code examples are not quite as simple. First syntax highlighting is nearly impossible (you may use[Prism.js](https://prismjs.com/) to help with this). However, you can format the code so it looks decent.
+If you're not using Gatsby and just writing in plain HTML and CSS code examples are not quite as simple. First syntax highlighting is nearly impossible (you may use [Prism.js](https://prismjs.com/) to help with this). However, you can format the code so it looks decent.
 
 First you're going to use `<pre>` and `<code>` tags. Then style with css. 
 

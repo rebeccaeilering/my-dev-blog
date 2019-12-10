@@ -2,7 +2,7 @@
 title:  "2019 Web Development Review" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
-date: 12/15/2019
+date: 12/09/2019
 tags: 
     - goals
     - motivation
@@ -25,13 +25,19 @@ Also lets looks at the report I wrote out in July [Report: Midway Through 2019](
 
 ##Other Web Development Things
 
-*A lot more work with ES6
-*Did work with more CSS animations, transforms
-*Did some work with Canvas API, Locations API, and using JavaScript to access my web cam
-*Used Express to create a dev server
-*Deployed a projet to Heroku
-*Getting better understanding accessibility
-*Been more consistent with my blog, updating my own website
+* A lot more work with ES6
+
+* Did work with more CSS animations, transforms
+
+* Did some work with Canvas API, Locations API, and using JavaScript to access my web cam
+
+* Used Express to create a dev server
+
+* Deployed a projet to Heroku
+
+* Getting better understanding accessibility
+
+* Been more consistent with my blog, updating my own website
 
 ##Assessment
 
@@ -55,13 +61,19 @@ Deleted my Facebook account
 
 ##Year End Faves
 
-*Book: Hidden Figures - About the African American women mathematicians that worked for NASA in the 1950s and 1960s. 
-*Movie: I guess the Lego Movie: The Second Part by default because that was the only new movie I saw this year in a movie theater. I don't watch a whole lot of movies anymore. Other than that I only remember watching old Indiana Jones movies and Sound City (documentary).
-*TV/Sreaming: Mindhunter on Netflix - About FBI agents that studied serial killers in the late 1970s into the early 1980s.
-*Music: The Center Won't Hold by Sleater-Kinney, I guess? I don't know. I haven't listened to a lot new music this year. I love the band. I'm only naming this album because it was the only one I could think of. It's not bad. It's different. It's a departure from their other albums. It's ceertainly not my favorite. Other than that I'm mostly looking backwards and discovering albums and artists I've missed. I really like the album All At Once by Screaming Females but that came out in 2018.
-*Concert: Shonen Knife at the Rock-n-Roll Hardees in Springfield. It's my fave cause it was unique. First they are from Japan and are legends. Second, it was at a Hardees. Third, it was free. It was just unique and fun.
-*Dev Podcast: Syntax
-*General Podcast: Disgraceland
+* Book: Hidden Figures - About the African American women mathematicians that worked for NASA in the 1950s and 1960s. 
+
+* Movie: I guess the Lego Movie: The Second Part by default because that was the only new movie I saw this year in a movie theater. I don't watch a whole lot of movies anymore. Other than that I only remember watching old Indiana Jones movies and Sound City (documentary).
+
+* TV/Sreaming: Mindhunter on Netflix - About FBI agents that studied serial killers in the late 1970s into the early 1980s.
+
+* Music: The Center Won't Hold by Sleater-Kinney, I guess? I don't know. I haven't listened to a lot new music this year. I love the band. I'm only naming this album because it was the only one I could think of. It's not bad. It's different. It's a departure from their other albums. It's ceertainly not my favorite. Other than that I'm mostly looking backwards and discovering albums and artists I've missed. I really like the album All At Once by Screaming Females but that came out in 2018.
+
+* Concert: Shonen Knife at the Rock-n-Roll Hardees in Springfield. It's my fave cause it was unique. First they are from Japan and are legends. Second, it was at a Hardees. Third, it waxs free. It was just unique and fun.
+
+* Dev Podcast: Syntax
+
+* General Podcast: Disgraceland
 
 
 
