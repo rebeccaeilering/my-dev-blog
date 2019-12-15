@@ -1,6 +1,6 @@
 ---
-title:  "Styles Aren't Just for the Browser" 
-cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
+title: Styles Aren't Just for the Browser
+cover: /img/cover.jpg
 category: css
 date: 11/08/2020
 tags:
