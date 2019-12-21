@@ -1,11 +1,11 @@
 const config = {
   siteTitle: "Rebecca's Developer Blog", // Site title.
-  siteTitleShort: "Dev Blog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
+  siteTitleShort: "RE Dev Blog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Rebecca's Developer Blog", // Alternative site title for SEO.
   siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
   siteUrl: "https://rebeccaeilering.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/my-dev-blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
-  siteDescription: "A GatsbyJS stater with Advanced design in mind.", // Website description used for RSS feeds/meta description tag.
+  siteDescription: "This is a blog about my developer experience. Learning, thoughts, and whatever.", // Website description used for RSS feeds/meta description tag.
   siteRss: "/rss.xml", // Path to the RSS file.
   siteFBAppID: "1825356251115265", // FB Application ID for using app insights
   googleAnalyticsID: "UA-47311644-5", // GA tracking ID.
@@ -15,11 +15,11 @@ const config = {
   dateFormat: "MM/DD/YYYY", // Date format for display.
   userName: "Rebecca Eilering", // Username to display in the author segment.
   userEmail: "rebeccaeilering@gmail.com", // Email used for RSS feed's author segment
-  userTwitter: "", // Optionally renders "Follow Me" in the UserInfo segment.
+  userTwitter: "rebeccaeilering", // Optionally renders "Follow Me" in the UserInfo segment.
   userLocation: "Springfield, IL", // User location to display in the author segment.
   userAvatar: "https://api.adorable.io/avatars/150/test.png", // User avatar to display in the author segment.
   userDescription:
-    "I'm a front end web developer", // User description to display in the author segment.
+    "I'm a front-end web developer", // User description to display in the author segment.
   // Links to social profiles/projects you want to display in the author segment/navigation bar.
   userLinks: [
     {
