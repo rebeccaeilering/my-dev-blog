@@ -67,6 +67,7 @@ header .container {
   
 .site-title:hover {
     text-decoration: none;
+    color: #fff;
 }
 
 .site-title, .site-title:visited {
