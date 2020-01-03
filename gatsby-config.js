@@ -140,6 +140,7 @@ module.exports = {
             {
               allMarkdownRemark(
                 limit: 1000,
+                filter: { frontmatter: { published: { eq: true }}},
                 sort: { order: DESC, fields: [fields___date] },
               ) {
                 edges {
@@ -157,6 +158,7 @@ module.exports = {
                       date
                       category
                       tags
+                      published
                     }
                   }
                 }
