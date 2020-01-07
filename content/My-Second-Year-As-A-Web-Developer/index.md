@@ -3,6 +3,7 @@ title: "My Second Year As A Web Developer"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: personal
 date: 09/18/2019
+published: true
 tags:
     - web development
     - self assessment

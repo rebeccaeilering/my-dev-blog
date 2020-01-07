@@ -3,6 +3,7 @@ title:  "Dipping Into Higher Order Functions"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: javascript
 date: 09/02/2019
+published: true
 tags:
     - javascript
     - web development

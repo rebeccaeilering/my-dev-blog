@@ -3,6 +3,7 @@ title: 2020 Web Development Goals
 cover: /img/cover.jpg
 category: web development
 date: 01/03/2020
+published: true
 tags: 
     - goals
     - motivation

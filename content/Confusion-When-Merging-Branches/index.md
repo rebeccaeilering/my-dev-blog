@@ -3,6 +3,7 @@ title:  "Confusion When Merging Branches"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: git
 date: 11/03/2018
+published: true
 tags:
     - web development
     - branching

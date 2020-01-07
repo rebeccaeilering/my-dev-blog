@@ -3,6 +3,7 @@ title:  "2019 Web Development Review"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
 date: 12/09/2019
+published: true
 tags: 
     - goals
     - motivation

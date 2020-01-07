@@ -3,6 +3,7 @@ title:  "Using a Data Attribute in Javascript to Edit a Pseudo-Element"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: javascript
 date: 02/02/2019
+published: true
 tags:
     - javascript
     - data attributes

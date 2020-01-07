@@ -3,6 +3,7 @@ title:  "First Impressions of Gatsby"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: gatsby
 date: 11/18/2018
+published: true
 tags: 
     - javascript
     - static site generator

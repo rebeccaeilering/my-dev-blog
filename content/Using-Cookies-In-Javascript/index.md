@@ -3,6 +3,7 @@ title:  "Using Cookies in JavaScript"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: javascript
 date: 11/28/2018
+published: true
 tags:
     - cookies
     - javascript

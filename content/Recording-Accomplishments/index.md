@@ -3,6 +3,7 @@ title:  "Recording Accomplishments"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: personal
 date: 08/28/2019
+published: true
 tags: 
     - productivity
     - imposter syndrome

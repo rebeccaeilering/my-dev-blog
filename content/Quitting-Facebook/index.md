@@ -3,6 +3,7 @@ title:  "Quitting Facebook"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: social media
 date: 03/06/2019
+published: true
 tags: 
     - facebook
 ---

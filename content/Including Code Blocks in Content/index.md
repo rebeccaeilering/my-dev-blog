@@ -3,6 +3,7 @@ title:  "Including Code Examples in Content"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: html
 date: 12/09/2019
+published: true
 tags:
     - html
     - web development

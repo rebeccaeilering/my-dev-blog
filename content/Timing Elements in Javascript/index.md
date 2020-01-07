@@ -3,6 +3,7 @@ title:  "Timing Elements in JavaScript"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: javascript
 date: 11/08/2019
+published: true
 tags:
     - javascript
     - front-end development

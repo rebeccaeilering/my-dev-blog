@@ -3,6 +3,7 @@ title:  "Why I Ditched WordPress"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: wordpress
 date: 09/29/2019
+published: true
 tags:
     - web development
     - front end development

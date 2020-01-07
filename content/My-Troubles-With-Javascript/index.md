@@ -3,6 +3,7 @@ title:  "My Troubles With JavaScript"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: javascript
 date: 09/17/2018
+published: true
 tags:
     - jquery
     - struggles

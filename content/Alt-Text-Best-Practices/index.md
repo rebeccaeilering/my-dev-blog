@@ -3,6 +3,7 @@ title:  "Alt Text Best Practices"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: accessibility
 date: 02/25/2019
+published: true
 tags:
     - html
     - alt attribute

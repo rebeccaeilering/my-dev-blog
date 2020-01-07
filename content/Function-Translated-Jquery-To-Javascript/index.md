@@ -3,6 +3,7 @@ title:  "A Function Translated from jQuery to JavaScript"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: javascript
 date: 02/16/2019
+published: true
 tags:
     - jquery
     - javascript

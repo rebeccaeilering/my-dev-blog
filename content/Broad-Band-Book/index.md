@@ -3,6 +3,7 @@ title:  "Thoughts on Broad Band by Claire Evans"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: books
 date: 01/29/2019
+published: true
 tags:
     - women
     - technology

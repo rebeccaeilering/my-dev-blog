@@ -3,6 +3,7 @@ title:  "2019 Web Development Goals"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
 date: 01/10/2019
+published: true
 tags: 
     - goals
     - motivation

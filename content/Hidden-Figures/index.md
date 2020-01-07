@@ -3,6 +3,7 @@ title:  "Hidden Figures by Margot Lee Shetterly"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: books
 date: 04/01/2019
+published: true
 tags:
     - women
     - history

@@ -3,6 +3,7 @@ title:  "My Developer Journey"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: personal
 date: 12/29/2017
+published: true
 tags:
     - web development
 ---

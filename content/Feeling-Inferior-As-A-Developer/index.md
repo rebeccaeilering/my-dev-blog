@@ -3,6 +3,7 @@ title:  "Feeling Inferior as a Developer"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: personal
 date: 09/26/2018
+published: true
 tags:
     - imposter syndrome
     - mental health

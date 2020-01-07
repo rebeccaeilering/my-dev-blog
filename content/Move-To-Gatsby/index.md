@@ -3,6 +3,7 @@ title:  "Moving My Blog to Gatsby"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: gatsby
 date: 05/05/2019
+published: true
 tags: 
     - javascript
     - static site generator

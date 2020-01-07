@@ -3,6 +3,7 @@ title:  "Can't Think of Project Ideas?"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: ideas
 date: 11/23/2018
+published: true
 tags: 
     - projects
     - web development

@@ -3,6 +3,7 @@ title:  "Report: Midway Through 2019"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
 date: 07/07/2019
+published: true
 tags:
     - web development
     - assessment

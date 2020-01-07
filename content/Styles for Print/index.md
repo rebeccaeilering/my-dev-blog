@@ -3,6 +3,7 @@ title: Styles Aren't Just for the Browser
 cover: /img/cover.jpg
 category: css
 date: 01/03/2020
+published: true
 tags:
     - css
     - front-end development

@@ -3,6 +3,7 @@ title:  "Motivation and Burning Out"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: personal
 date: 03/22/2019
+published: true
 tags: 
     - mental health
     - burn out

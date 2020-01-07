@@ -3,6 +3,7 @@ title:  "The Basics of HTML5 Semanitic Elements"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: accessibility
 date: 11/01/2019
+published: true
 tags:
     - html
     - front-end development

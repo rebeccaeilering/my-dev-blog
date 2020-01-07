@@ -3,6 +3,7 @@ title:  "Resources I Like to Use for Developing Websites"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
 date: 12/08/2018
+published: true
 tags:
     - resources
     - tools
