@@ -14,15 +14,15 @@ I code all day at work. Eight hours. Fourty hour/ 5 days a week. So I code a lot
 
 However, sometimes I just done. Right now I don't. I mostly feel this way when I feel stressed or overwhelmed. Right now I feel that way. What I do as a developer is centered around doing support work. I fix issues/bugs, help clients fix things they broke or just help them with something they don't know how to do, add and edit features, for older sites I may update content, work on small projects. Support work also means I have to monitor our help desk and create tickets for myself and other developers. Normally we have a team. There's me and a couple others so it's not just one person's responsibility.
 
-Right now, though, my team is out of office so I have been by myself for the past few days. I'm doing a lot of stuff I normally don't do. I'm trying to figure out where to send tickets when I'm not sure who can take care of them. I'm taking phone calls and many time they are regarding things I don't fully understand. 
+Right now, though, my team is out of office so I have been by myself for the past few days. I'm doing a lot of stuff I normally don't do. I'm trying to figure out where to send tickets when I'm not sure who can take care of them. I'm taking phone calls and many times they are regarding things I don't fully understand. 
 
-What is driving me nuts is that I can't focus. I'm constantly jumping around from ticket to ticket. I'm worrying about tickets coming in or tickets I'm not sure what to do with. I'm asking my boss for questions and advice constantly. My tickets are piling up and I'm not being productive. I'm getting irritated. I'm stressed and mentally exhausted.
+What is driving me nuts is that I can't focus. I'm constantly jumping around from ticket to ticket and from problem to problem. I'm worrying about tickets coming in or tickets I'm not sure what to do with. I'm asking my boss for questions and advice constantly. My tickets are piling up and I'm not being productive. I'm getting irritated. I'm stressed and mentally exhausted.
 
 Therefore when I get home I just don't feel like doing anything and I'm worrying about the next day. I have one more day of being the lone help desk jockey. I'm dreading it. I can't wait for it to be over.
 
 This is a motivation killer. However, I know it will end and my job will go back to normal. I'll feel productive again. I won't be worrying and dreading the next day. I'll be able to focus and solve problems better. I will feel more motivated.
 
-So how do I handle this? 
+In the meantime, how do I handle this? 
 
 1. I still try to stick to my routine. This means I still go to the gym. I don't skip meals. I go for my lunch walks. I read. I work on something creative (like drawing), I zone out watching shows on Netflix before going to bed.
 
