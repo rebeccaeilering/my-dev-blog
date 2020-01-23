@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"fields":{"slug":"/test-post","date":"2020-01-10T06:00:00.000Z"},"excerpt":"This is a test","timeToRead":1,"frontmatter":{"title":"Test Post","tags":["test"],"cover":"/img/cover.jpg","date":"01/10/2020"}}}]}},"pageContext":{"tag":"test"}}
