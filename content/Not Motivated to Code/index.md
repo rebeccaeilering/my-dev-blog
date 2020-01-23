@@ -25,7 +25,7 @@ Therefore when I get home I just don't feel like doing anything and I'm worrying
 
 This is a motivation killer. However, I know it will end and my job will go back to normal. I'll feel productive again. I won't be worrying and dreading the next day. I'll be able to focus and solve problems better. I will feel more motivated.
 
-So how do I handle this? 
+In the meantime, how do I handle this? 
 
 1. I still try to stick to my routine. This means I still go to the gym. I don't skip meals. I go for my lunch walks. I read. I work on something creative (like drawing), and I zone out watching a show on Netflix before going to bed.
 
