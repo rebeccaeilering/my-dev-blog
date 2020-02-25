@@ -2,7 +2,7 @@
 title: NodeList vs. Array
 cover: /img/cover.jpg
 category: javascript
-date: 01/20/2020
+date: 02/29/2020
 published: false
 tags:
     - web development
@@ -11,6 +11,8 @@ tags:
     - DOM
     - Arrays
 ---
+
+When you start to use JavaScript you will deal with arrays quite frequently. You'll also use nodeLists quite freqently too. In a way they may seem alike but there are important differences between the two.
 
 NodeList
 
@@ -28,3 +30,5 @@ https://developer.mozilla.org/en-US/docs/Web/API/NodeList
 
 
 Array
+
+Arrays are list-like objects
