@@ -2,7 +2,7 @@ const config = {
   siteTitle: "Rebecca's Developer Blog", // Site title.
   siteTitleShort: "RE Dev Blog", // Short site title for homescreen (PWA). Preferably should be under 12 characters to prevent truncation.
   siteTitleAlt: "Rebecca's Developer Blog", // Alternative site title for SEO.
-  siteLogo: "/logos/logo-1024.png", // Logo used for SEO and manifest.
+  siteLogo: "/my-dev-blog/img/rebecca-web.jpg", // Logo used for SEO and manifest.
   siteUrl: "https://rebeccaeilering.github.io", // Domain of your website without pathPrefix.
   pathPrefix: "/my-dev-blog", // Prefixes all links. For cases when deployed to example.github.io/gatsby-advanced-starter/.
   siteDescription: "This is a blog about my developer experience. Learning, thoughts, and whatever.", // Website description used for RSS feeds/meta description tag.
