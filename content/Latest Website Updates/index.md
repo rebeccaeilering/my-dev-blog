@@ -18,19 +18,19 @@ I recently pushed out some updates to my personal website. What I was wanting to
 
 1. I removed the Design links in the navigation and on the homepage. While I do have a background in web design I do not do any web design these days. I haven’t done any kind of design since 2017. I don’t have a portfolio and don’t intend on having one. There just isn’t anything new to add here. To me it’s just dead weight. 
 
-2. I updated some of the images on the homepage. I think it just freshens the look some by new imagery and new color.
+2. I updated some of the images on the homepage. I think it just freshens the look some with  new imagery and new color.
 
 3. I made the social media buttons a little smaller. I don’t think they need to take up as much real estate. In fact, I could probably go smaller or eliminate the section and just put them in the footer.
 
 4. I made some updates to what I will call cards. They are on my main art and web design pages. These are where I am putting my current/past jobs and experience. I also made tweaks to the list item borders for where I list my skills.
 
-5. I made some general proofreading fixes. It’s probably not perfect but some copy edits were in need.
+5. I made some general proofreading fixes. It’s probably not perfect but some copy edits were needed.
 
 6. I made a lot of updates to my art portfolio since the work there is severely outdated. It still is outdated but I’m not making it look like it’s current work. I put the work into categories and added some work that fits each category. The work is still at least four years old but there is more variety. Part of this was creating a portfolio pages for each category. So there isn’t one portfolio as I find that could get really large as I keep on adding images. What I’m doing is displaying the Category links on the art page just like the project grid on the personal projects page. I guess what you could call it is a portfolio grid. They function the same and I think should look the same. 
 
 7. I made quite a bit of “behind the curtain” changes too. First I eliminated most libraries and went full on vanilla JavaScript. I removed jQuery. I removed a library for CSS animations because I didn’t use many. I used one of the many animations and I could just create that myself so that is what I did. I also switched out my light-box to something a little more simple and it doesn’t require jQuery. My initial goal was to eliminate all plugins and libraries but I don’t think it’s necessary to “reinvent the wheel” when there are already tools out there that are far superior to what I can do or want to do. 
 
-Second, I made some architecture changes in the project. I’m not sure I like it all but there was some changes I made to my gulp file. I also created a couple more partials for my CSS so I don’t have to update every page head when I add or remove a CSS link.
+Second, I made some architecture changes in the project. I’m not sure I like it all but there were some changes I made to my gulp file. I also created a couple more partials for my CSS so I don’t have to update every page head when I add or remove a CSS link.
 
 I also tried to clean up some of the CSS. Remove what’s not being used and some repeating stuff that just isn’t needed.
 
