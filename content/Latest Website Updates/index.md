@@ -1,9 +1,9 @@
 ---
 title:  "Latest Updates to My Personal Website" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
-category: changelog
-date: 06/04/2020
-published: false
+category: change log
+date: 06/14/2020
+published: true
 tags:
     - web development
     - front end development
@@ -26,9 +26,7 @@ I recently pushed out some updates to my personal website. What I was wanting to
 
 5. I made some general proofreading fixes. It’s probably not perfect but some copy edits were in need.
 
-6. I made a lot of updates to my art portfolio since the work there is severely outdated. It still is outdated but I’m not making it look like it’s current work. I put the work into categories and added some work that fits each category. The work is still at least four years old but there is more variety.
-
-Part of this too was creating a portfolio pages for each category. So there isn’t one portfolio as I find that could get really large as I keep on adding images. What I’m doing is displaying the Category links on the art page just like the project grid on the personal projects page. I guess what you could call it is a portfolio grid. They function the same and I think should look the same. 
+6. I made a lot of updates to my art portfolio since the work there is severely outdated. It still is outdated but I’m not making it look like it’s current work. I put the work into categories and added some work that fits each category. The work is still at least four years old but there is more variety. Part of this was creating a portfolio pages for each category. So there isn’t one portfolio as I find that could get really large as I keep on adding images. What I’m doing is displaying the Category links on the art page just like the project grid on the personal projects page. I guess what you could call it is a portfolio grid. They function the same and I think should look the same. 
 
 7. I made quite a bit of “behind the curtain” changes too. First I eliminated most libraries and went full on vanilla JavaScript. I removed jQuery. I removed a library for CSS animations because I didn’t use many. I used one of the many animations and I could just create that myself so that is what I did. I also switched out my light-box to something a little more simple and it doesn’t require jQuery. My initial goal was to eliminate all plugins and libraries but I don’t think it’s necessary to “reinvent the wheel” when there are already tools out there that are far superior to what I can do or want to do. 
 

@@ -2,7 +2,7 @@
 title:  "Report: Midway Through 2020"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
-date: 06/04/2020
+date: 06/17/2020
 published: false
 tags:
     - web development
@@ -26,7 +26,7 @@ All this makes what I write below seem insignificant. I'm going to be kind to my
 
 2. I want to continue focusing on JavaScript. Specifically ES6. I've done good with this. I've updated all the jQuery used on my website to ES6. I have also added more components such as accordions, tabs, responsive tables, and updated my mobile menu. All use ES6. I have also projects such as STL Photos, Workout Generator, Books I Read sites/apps that are JavaScript heavy. I'm happy with my progress here.
 
-3. In VSCode I want to use more shortcuts and code snippets to speed up productivity. I do use the search functions more but I'm very steeped in habit and I haven't got out of the habit of relying on the mouse.
+3. In VS Code I want to use more shortcuts and code snippets to speed up productivity. I do use the search functions more but I'm very steeped in habit and I haven't got out of the habit of relying on the mouse.
 
 4. I didn't do so well with this one last year but create something using a programming language I don't know. I'm not venturing out of the JavaScript ecosystem too much. I have started some tutorial learning of Svelte.js. I have also used Node.js, Express to create local server environments and connect to MongoDB. I'm okay with this.
 
@@ -44,4 +44,4 @@ This is not development related but I have been drawing more and making small pa
 
 ## Assessment
 
-I'm going to be kind to myself. I haven't progressed in some areas as much as I hoped and I don't know if I will. I have done what I can and will do what I can. The important thing is that I am still moving forward. That's going to be my mindset for the rest of the year. 
+I'm going to be kind to myself. I haven't progressed in some areas as much as I hoped and I don't know if I will so much this year. I have done what I can and will do what I can. The important thing is that I am still moving forward. That's going to be my mindset for the rest of the year. 
