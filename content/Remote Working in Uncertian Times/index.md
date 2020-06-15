@@ -19,10 +19,21 @@ What I was most worried about was connecting to our company's VPN to get to cert
 
 However, because we have clients who are worried and are within industries that are important in this crisis such as health care and banking we were getting bombarded with urgent and high priority requests. So I was glad the transition went well so we could help our clients that need to put out important information out to the public. This is especially true for the hospitals we work with becuase they are on the front lines of this health crisis.
 
-I want to note that I started writing this in March and haven't touched this post until today. My work has been up and down in the way of having things to do. I'm used to working at home now and mostly have kept up with everthing but I don't feel like this has been a breeze. In fact I feel stressed out all the time. I feel disconnected with my co-workers and don't like reaching out over chat. 
+That all being said this whole thing is different than just working from home. When I used to work from home I would make it a point to get out of the house do do things like go to events, do meetups, sometimes work in a coffee house/cafe just to not feel so lonely. This is different becuase Those things can't be done. There are no events, no meetups, coffee houses/cafes are closed. There are no social outlets. When I get off work, I stay in the house. The only other options to get out of the house are to go to get groceries or pick up some food, take a walk, or maybe go for a drive. 
 
-Is there anything I've learned in since March 16th? Sure. I need to take this one day at a time. I need to realize that my productivity is not going to be as good - I get distracted more, I get stressed and irritated more easily (which means I got to get up and take a break). I've learned to just accept that there are going to be days where I'm worried, stressed and I'm not going to be as clear headed as I could be.
+Working from home doesn't remove the worry and anxiety I feel. Being alone doesn't help me all the time. It can drive me to ruminate - obsess about the things that worry me. A lot of different things are worrying me right now. That can drive me to endlessly scroll Twitter looking for the latest news on this outbreak or just think about the worst. Not having a lot of physical activity or interaction with people worries me. My anxiety also makes it hard to concentrate sometimes.
 
-I will say this. I have retained some of the things from when I used to work remote. I get dressed every day. I go out for walks. I eat lunch at the same time every day. Essentially I have a routine and that helps.
+Generally I have things I do that keep me from rumination and ease my anxiety and some of those things I can't do like I have been. I have to figure out new things. What are some new things I can do?
 
-Until the shelter-in-place order is lifted, remote working will be the normal. When I'm able to get back to the office it's going to feel new - like I'm going to feel like a new employee in a new building and, again, there will be some re-adjustments but I'll be happy to get back to some semblance of normal.
+1. I can't go to the gym to do my workouts. However, if it's nice I can do many outside. I just don't have weights. I can do many inside too if need be. I just like the motivation of getting out of the house. Just leaving the house helps me get exercising. Now I need to find another way to motivate myself.
+
+2. I probably need to put a limit on socail media like Twitter. Most of the news and chatter is too much to process, is negative (trolls and bots), hyper partisan and political. 
+
+3. Try to take things one day at a time. It's not helpful thinking about the future. With this crisis it's next to impossible to plan and anticipate what will happen in the future. Just focus on the present moment. So far the only way I can do that is to stay busy with something.
+
+4. Stay busy with something. Don't abandon projects or hobbies. I can take time to draw and do creative activities. I can work on the coding projects I've been working on. I can keep on learning javascript and other web technologies.
+
+5. Relax. Play games - puzzle type games that keep my mind active. Read books to learn or escape. Watch movies and tv shows (ones that won't stress me out). Go for leasurly walks outside away from others to get fresh air and sun. Listen to music. I have lots of records. Many of which I haven't had time to listen to. Play with my cat
+
+
+
