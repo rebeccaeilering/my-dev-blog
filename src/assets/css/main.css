@@ -103,4 +103,17 @@
     border: 1px dotted #206FAF;
     font-size: 14px;
   }
+
+  img {
+    max-width: 100%;
+  }
+  
+  @media screen and (min-width: 680px) {
+    .about img {
+    float: left;
+    max-width: 220px;
+    margin: 0 20px 5px 0;
+    }
+  
+  }
   
