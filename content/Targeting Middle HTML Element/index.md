@@ -2,7 +2,7 @@
 title:  "Targeting Middle HTML Element" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: javascript
-date: 07/20/2020
+date: 07/31/2020
 published: true
 tags:
     - html
@@ -15,7 +15,7 @@ There was already javascript in place for the seven video layout and since the f
 
 I'm not going to go on a deep dive on how all the code worked but I just want to focus on finding the middle element automatically.
 
-This is pretty simple. First I want to get all the elements. In this case the paragraphs. What I did was a use a `.querySelectorAll` put put all the elements in a NodeList.
+This is pretty simple. First I want to get all the elements. In this case the paragraphs (see CodePen example below). What I did was a use a `.querySelectorAll` to put all the elements in a NodeList.
 
 Then I just use some simple math to get the middle index by getting the length of the NodeList and dividing it in half. `Math.floor((para.length) / 2)` Obviously when you divide an odd number in half you're not going to get an whole number. You're going to get a number with a decimal. So for 5, half will be 2.5. I use `Math.floor` to round it down to 2. If it's for 7, half is 3.5. `Math.floor` to round it down to 3.
 
