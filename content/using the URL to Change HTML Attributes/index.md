@@ -7,6 +7,8 @@ published: true
 tags:
     - jquery
     - attributes
+    - front-end development
+    - web development
 ---
 
 I don't use a whole lot of JavaScript on a day-to-day basis. This week was an exception. There were a couple occasions I had to make sure some elements only show on certain pages and creating new templates would be overkill. It would be easier to use the URL to target certain pages and then make changes to the code.

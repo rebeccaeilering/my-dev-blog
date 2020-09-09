@@ -7,6 +7,8 @@ published: true
 tags:
     - jquery
     - html
+    - front-end development
+    - web development
 ---
 
 This was an issue I ran into when solving some accessibility issues. First of all, every page needs to have one h1 tag. Pages shouldn't have multiple h1 tags. In addition, there shouldn't be any empty heading tags. I find many people sometimes use heading or paragraph tags to space out content and this shouldn't be done. That would be an issue to be best dealt with by using CSS.

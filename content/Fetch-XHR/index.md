@@ -8,6 +8,8 @@ tags:
     - xhr
     - fetch api
     - json
+    - front-end development
+    - web development
 ---
 
 I have no idea how to work databases. I'm highly intimidated by them. I have been using JSON for data in personal projects but I certainly wouldn't say they are databases. However, JSON allows me to do some more dynamic stuff and create personal projects I find to be more interesting and useful. 

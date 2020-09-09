@@ -7,6 +7,8 @@ published: true
 tags:
     - html
     - javascript
+    - front-end development
+    - web development
 ---
 
 Recently, I had a task where I had to create video page where there are five videos. The third video would be large and in center and then have two videos to the right and to the left. This was a modification of an existing page that had seven videos. The fourth video is large and in center and then have 3 videos to the right and to the left. Another part of this is when the user clicks on the smaller elements, the element clicked on is put into the large center element.
