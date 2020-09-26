@@ -3,7 +3,7 @@ title:  "Using CSS Counters"
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: css
 date: 09/25/2020
-published: false
+published: true
 tags:
     - css
     - front-end development
