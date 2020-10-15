@@ -17,3 +17,11 @@ I work in support. I am a web developer but I do work more directly with our cli
 I find the majority of clients are not an issue. I expect some to feel frustrated because something's not working as they expect, they did something wrong, or they just can't figure out how to do something. Most are polite about these sorts of things though and we can get their issues resolved quickly. However, there is always going to be "that" person. 
 
 I'm no expert at handling difficult people but I do my best. However, when I have a client upset about something and talking at breakneck speed, I admit, my blood pressure rises, I feel defensive and a bit frustrated too. However, I'm the professional and don't want to make my life more difficult by arguing with clients.
+
+So what do I do?
+
+1. I listen. If they call and are just ranting and raving, I will just let them rant and rave or a little bit. I take some notes.
+
+2. I acknowledge how they feel and try to see the issue from their perspective. I'll use phrases like, "I understand how that is an issue", "That must be very frustrating...". I want them to know that I care and am not going to dismiss what they say or how they feel.
+
+3. Slow things down. When people get upset it seems that 
