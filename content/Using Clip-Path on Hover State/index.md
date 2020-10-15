@@ -2,8 +2,8 @@
 title:  "Using Clip-Path on Hover State" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: css
-date: 10/02/2020
-published: false
+date: 10/09/2020
+published: true
 tags:
     - css
     - front-end development
