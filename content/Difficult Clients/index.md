@@ -24,4 +24,10 @@ So what do I do?
 
 2. I acknowledge how they feel and try to see the issue from their perspective. I'll use phrases like, "I understand how that is an issue", "That must be very frustrating...". I want them to know that I care and am not going to dismiss what they say or how they feel.
 
-3. Slow things down. When people get upset it seems that 
+3. Slow things down. When people get upset it seems like you're being pummelled with various things and past or unknown grievences may be brought up. Try to do one thing at a time.
+
+4. When taking care of their issue, be communicative. Don't go for a long period of time without communication. I think it gives them confidence that you are addressing their issue. 
+
+5. Once you get their issue resolved try to follow up and make sure there isn't anyting you overlooked.
+
+This isn't perfect and I'm no pro with difficult clients or people in general. I try to do my best to avoid difficult situations by doing my best work. Sometimes it's unavoidable though. 
