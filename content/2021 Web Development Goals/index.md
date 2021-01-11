@@ -19,5 +19,9 @@ Like last year, I'm going to set some goals for the year. Five total. Here we go
 
 4. Level up my Javascript skill. This seems like more of an ongoing goal and that is true. I'm not sure what I want to learn specifically yet but I want the majority of what I do this year to revolve around JavaScript. I want the easier, common stuff to come easier. I want to do things are are more challenging too. I just want to level up.
 
-5. 
+5. Play more with transitions and animations for UI. I think last year I wanted to put some focus on this and I did but I feel like I need to push further with this 
+
+Bonus (smaller things): Try out Tailwind CSS, set up a custom domain for the blog. These would just be used on a smaller scale and would probably just be one off projects. However, they are a couple things I would like to get on or done.
+
+I think that is it for now. I want to mention because of Covid-19 and other things happening now, like civil unrest, I am going to be more forgiving for slower progress or if I don't complete these items. The main thing is to be more kind to myself and take more breaks for my mental health. I don't know what the future holds and things seem more uncertain today than at this time last year. So right now it's just go one day at a time and hope for the best.
 
