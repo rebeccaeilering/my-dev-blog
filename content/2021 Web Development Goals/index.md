@@ -2,7 +2,7 @@
 title:  "2021 Web Development Goals" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
-date: 01/10/2021
+date: 02/04/2021
 published: true
 tags: 
     - goals
@@ -17,7 +17,7 @@ Like last year, I'm going to set some goals for the year. Five total. Here we go
 
 3. In VSCode I want to use more shortcuts and code snippets to speed up productivity. I use a handful of keyboard shortcuts but I think I can make use of more and speed my development process up a little.
 
-4. Level up my Javascript skill. This seems like more of an ongoing goal and that is true. I'm not sure what I want to learn specifically yet but I want the majority of what I do this year to revolve around JavaScript. I want the easier, common stuff to come easier. I want to do things are are more challenging too. I just want to level up.
+4. Level up my Javascript skills. This seems like more of an ongoing goal and that is true. I'm not sure what I want to learn specifically yet but I want the majority of what I do this year to revolve around JavaScript. I want the easier, common stuff to come easier. I want to do things are are more challenging too. I just want to level up.
 
 5. Play more with transitions and animations for UI. I think last year I wanted to put some focus on this and I did but I feel like I need to push further with this 
 
