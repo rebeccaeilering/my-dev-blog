@@ -2,14 +2,14 @@
 title:  "2020 Web Development Review" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
-date: 01/04/2021
+date: 02/04/2021
 published: true
 tags: 
     - goals
     - motivation
 ---
 
-This year has been a shit-show. It's the year of the global pandemic that has turned our lives upside-down. That being said, how did my year go? 
+This last year has been a shit-show. It's the year of the global pandemic that has turned our lives upside-down. That being said, how did my year go? 
 
 Generally speaking my year was okay. I haven't caught Covid-19. I have a job and my life is carrying on. I just don't go many places, spent part of the year working from home, and when I do go places I wear a mask.
 
