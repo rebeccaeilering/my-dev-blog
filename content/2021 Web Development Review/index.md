@@ -2,7 +2,7 @@
 title:  "2021 Web Development Review" 
 cover: "https://unsplash.it/1152/300/?random?TheButterflyoftheEdge"
 category: web development
-date: 12/20/2021
+date: 01/31/2022
 published: true
 tags: 
     - goals
